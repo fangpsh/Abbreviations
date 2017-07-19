@@ -5,6 +5,8 @@ A Dictionary of Abbreviations
 
 ## Install 
 
+If crash on Sierra, please `make && make install` by yourself.
+
  1. Download: [Abbreviations.dictionary.zip](https://github.com/fangpeishi/Abbreviations/releases)
  2. Unzip
  3. Drag-and-drop .dictionary file into `~/Library/Dictionaries/`
