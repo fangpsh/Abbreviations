@@ -543,9 +543,11 @@
 <d:entry id="absolute" d:title="absolute">
     <d:index d:value="absolute" d:title="absolute"/>
     <d:index d:value="absol"  d:title="absol"/>
+    <d:index d:value="abs"  d:title="abs"/>
     <div>
 	    absolute
          <li>absol</li>
+         <li>abs</li>
          <br />
     </div>
 </d:entry>    
@@ -1070,6 +1072,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="allocate" d:title="allocate">
+    <d:index d:value="allocate" d:title="allocate"/>
+    <d:index d:value="alloc"  d:title="alloc"/>
+    <div>
+	    allocate
+         <li>alloc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="allocation" d:title="allocation">
+    <d:index d:value="allocation" d:title="allocation"/>
+    <d:index d:value="alloc"  d:title="alloc"/>
+    <div>
+	    allocation
+         <li>alloc</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="almanac" d:title="almanac">
     <d:index d:value="almanac" d:title="almanac"/>
     <d:index d:value="alm"  d:title="alm"/>
@@ -1567,9 +1587,11 @@
 <d:entry id="argument" d:title="argument">
     <d:index d:value="argument" d:title="argument"/>
     <d:index d:value="argt"  d:title="argt"/>
+    <d:index d:value="arg"  d:title="arg"/>
     <div>
 	    argument
          <li>argt</li>
+         <li>arg</li>
          <br />
     </div>
 </d:entry>    
@@ -1635,6 +1657,15 @@
     <div>
 	    artillery
          <li>artill</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="ascending" d:title="ascending">
+    <d:index d:value="ascending" d:title="ascending"/>
+    <d:index d:value="asc"  d:title="asc"/>
+    <div>
+	    ascending
+         <li>asc</li>
          <br />
     </div>
 </d:entry>    
@@ -1811,11 +1842,47 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="authenticate" d:title="authenticate">
+    <d:index d:value="authenticate" d:title="authenticate"/>
+    <d:index d:value="auth"  d:title="auth"/>
+    <div>
+	    authenticate
+         <li>auth</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="authentication" d:title="authentication">
+    <d:index d:value="authentication" d:title="authentication"/>
+    <d:index d:value="auth"  d:title="auth"/>
+    <div>
+	    authentication
+         <li>auth</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="author" d:title="author">
     <d:index d:value="author" d:title="author"/>
     <d:index d:value="auth"  d:title="auth"/>
     <div>
 	    author
+         <li>auth</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="authorization" d:title="authorization">
+    <d:index d:value="authorization" d:title="authorization"/>
+    <d:index d:value="auth"  d:title="auth"/>
+    <div>
+	    authorization
+         <li>auth</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="authorize" d:title="authorize">
+    <d:index d:value="authorize" d:title="authorize"/>
+    <d:index d:value="auth"  d:title="auth"/>
+    <div>
+	    authorize
          <li>auth</li>
          <br />
     </div>
@@ -1864,6 +1931,15 @@
     <div>
 	    avenue
          <li>ave</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="average" d:title="average">
+    <d:index d:value="average" d:title="average"/>
+    <d:index d:value="avg"  d:title="avg"/>
+    <div>
+	    average
+         <li>avg</li>
          <br />
     </div>
 </d:entry>    
@@ -1972,6 +2048,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="binary" d:title="binary">
+    <d:index d:value="binary" d:title="binary"/>
+    <d:index d:value="binary"  d:title="binary"/>
+    <div>
+	    binary
+         <li>binary</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="biochemical" d:title="biochemical">
     <d:index d:value="biochemical" d:title="biochemical"/>
     <d:index d:value="biochem"  d:title="biochem"/>
@@ -2061,6 +2146,15 @@
     <div>
 	    books
          <li>bks</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="boolean" d:title="boolean">
+    <d:index d:value="boolean" d:title="boolean"/>
+    <d:index d:value="bool"  d:title="bool"/>
+    <div>
+	    boolean
+         <li>bool</li>
          <br />
     </div>
 </d:entry>    
@@ -2163,6 +2257,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="buffer" d:title="buffer">
+    <d:index d:value="buffer" d:title="buffer"/>
+    <d:index d:value="buf"  d:title="buf"/>
+    <div>
+	    buffer
+         <li>buf</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="building" d:title="building">
     <d:index d:value="building" d:title="building"/>
     <d:index d:value="build"  d:title="build"/>
@@ -2187,6 +2290,24 @@
     <div>
 	    bureau
          <li>bur</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="business" d:title="business">
+    <d:index d:value="business" d:title="business"/>
+    <d:index d:value="biz"  d:title="biz"/>
+    <div>
+	    business
+         <li>biz</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="calculate" d:title="calculate">
+    <d:index d:value="calculate" d:title="calculate"/>
+    <d:index d:value="calc"  d:title="calc"/>
+    <div>
+	    calculate
+         <li>calc</li>
          <br />
     </div>
 </d:entry>    
@@ -2263,6 +2384,15 @@
     <div>
 	    canterbury
          <li>canterb</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="capitalize" d:title="capitalize">
+    <d:index d:value="capitalize" d:title="capitalize"/>
+    <d:index d:value="cap"  d:title="cap"/>
+    <div>
+	    capitalize
+         <li>cap</li>
          <br />
     </div>
 </d:entry>    
@@ -2375,6 +2505,15 @@
 	    certificate
          <li>cert</li>
          <li>certif</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="certify," d:title="certify,">
+    <d:index d:value="certify," d:title="certify,"/>
+    <d:index d:value="certificate"  d:title="certificate"/>
+    <div>
+	    certify,
+         <li>certificate</li>
          <br />
     </div>
 </d:entry>    
@@ -2685,6 +2824,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="column" d:title="column">
+    <d:index d:value="column" d:title="column"/>
+    <d:index d:value="col"  d:title="col"/>
+    <div>
+	    column
+         <li>col</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="combination" d:title="combination">
     <d:index d:value="combination" d:title="combination"/>
     <d:index d:value="comb"  d:title="comb"/>
@@ -2700,6 +2848,15 @@
     <div>
 	    combinations
          <li>combs</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="command" d:title="command">
+    <d:index d:value="command" d:title="command"/>
+    <d:index d:value="cmd"  d:title="cmd"/>
+    <div>
+	    command
+         <li>cmd</li>
          <br />
     </div>
 </d:entry>    
@@ -2837,9 +2994,20 @@
 <d:entry id="compare" d:title="compare">
     <d:index d:value="compare" d:title="compare"/>
     <d:index d:value="cf"  d:title="cf"/>
+    <d:index d:value="cmp"  d:title="cmp"/>
     <div>
 	    compare
          <li>cf</li>
+         <li>cmp</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="comparison" d:title="comparison">
+    <d:index d:value="comparison" d:title="comparison"/>
+    <d:index d:value="cmp"  d:title="cmp"/>
+    <div>
+	    comparison
+         <li>cmp</li>
          <br />
     </div>
 </d:entry>    
@@ -2991,6 +3159,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="configuration" d:title="configuration">
+    <d:index d:value="configuration" d:title="configuration"/>
+    <d:index d:value="config"  d:title="config"/>
+    <div>
+	    configuration
+         <li>config</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="configure" d:title="configure">
+    <d:index d:value="configure" d:title="configure"/>
+    <d:index d:value="config"  d:title="config"/>
+    <div>
+	    configure
+         <li>config</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="conflict" d:title="conflict">
     <d:index d:value="conflict" d:title="conflict"/>
     <d:index d:value="confl"  d:title="confl"/>
@@ -3054,11 +3240,38 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="connect" d:title="connect">
+    <d:index d:value="connect" d:title="connect"/>
+    <d:index d:value="conn"  d:title="conn"/>
+    <div>
+	    connect
+         <li>conn</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="connecticut" d:title="connecticut">
     <d:index d:value="connecticut" d:title="connecticut"/>
     <d:index d:value="conn"  d:title="conn"/>
     <div>
 	    connecticut
+         <li>conn</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="connection" d:title="connection">
+    <d:index d:value="connection" d:title="connection"/>
+    <d:index d:value="conn"  d:title="conn"/>
+    <div>
+	    connection
+         <li>conn</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="connector" d:title="connector">
+    <d:index d:value="connector" d:title="connector"/>
+    <d:index d:value="conn"  d:title="conn"/>
+    <div>
+	    connector
          <li>conn</li>
          <br />
     </div>
@@ -3227,6 +3440,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="context" d:title="context">
+    <d:index d:value="context" d:title="context"/>
+    <d:index d:value="ctx"  d:title="ctx"/>
+    <div>
+	    context
+         <li>ctx</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="continuation" d:title="continuation">
     <d:index d:value="continuation" d:title="continuation"/>
     <d:index d:value="contin"  d:title="contin"/>
@@ -3281,6 +3503,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="control" d:title="control">
+    <d:index d:value="control" d:title="control"/>
+    <d:index d:value="ctl"  d:title="ctl"/>
+    <div>
+	    control
+         <li>ctl</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="controversial" d:title="controversial">
     <d:index d:value="controversial" d:title="controversial"/>
     <d:index d:value="controv"  d:title="controv"/>
@@ -3316,6 +3547,26 @@
     <div>
 	    conversation
          <li>conversat</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="conversion" d:title="conversion">
+    <d:index d:value="conversion" d:title="conversion"/>
+    <d:index d:value="conv"  d:title="conv"/>
+    <div>
+	    conversion
+         <li>conv</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="convert" d:title="convert">
+    <d:index d:value="convert" d:title="convert"/>
+    <d:index d:value="conv"  d:title="conv"/>
+    <d:index d:value="cvt"  d:title="cvt"/>
+    <div>
+	    convert
+         <li>conv</li>
+         <li>cvt</li>
          <br />
     </div>
 </d:entry>    
@@ -3479,9 +3730,20 @@
 <d:entry id="cryptography" d:title="cryptography">
     <d:index d:value="cryptography" d:title="cryptography"/>
     <d:index d:value="cryptogr"  d:title="cryptogr"/>
+    <d:index d:value="crypt"  d:title="crypt"/>
     <div>
 	    cryptography
          <li>cryptogr</li>
+         <li>crypt</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="cryptology" d:title="cryptology">
+    <d:index d:value="cryptology" d:title="cryptology"/>
+    <d:index d:value="crypt"  d:title="crypt"/>
+    <div>
+	    cryptology
+         <li>crypt</li>
          <br />
     </div>
 </d:entry>    
@@ -3615,6 +3877,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="define" d:title="define">
+    <d:index d:value="define" d:title="define"/>
+    <d:index d:value="def"  d:title="def"/>
+    <div>
+	    define
+         <li>def</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="definite" d:title="definite">
     <d:index d:value="definite" d:title="definite"/>
     <d:index d:value="def"  d:title="def"/>
@@ -3630,6 +3901,15 @@
     <div>
 	    definition
          <li>def</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="delete" d:title="delete">
+    <d:index d:value="delete" d:title="delete"/>
+    <d:index d:value="del"  d:title="del"/>
+    <div>
+	    delete
+         <li>del</li>
          <br />
     </div>
 </d:entry>    
@@ -3736,12 +4016,32 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="destination" d:title="destination">
+    <d:index d:value="destination" d:title="destination"/>
+    <d:index d:value="dst"  d:title="dst"/>
+    <d:index d:value="dest"  d:title="dest"/>
+    <div>
+	    destination
+         <li>dst</li>
+         <li>dest</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="deuteronomy" d:title="deuteronomy">
     <d:index d:value="deuteronomy" d:title="deuteronomy"/>
     <d:index d:value="deut"  d:title="deut"/>
     <div>
 	    deuteronomy
          <li>deut</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="develop" d:title="develop">
+    <d:index d:value="develop" d:title="develop"/>
+    <d:index d:value="dev"  d:title="dev"/>
+    <div>
+	    develop
+         <li>dev</li>
          <br />
     </div>
 </d:entry>    
@@ -3781,6 +4081,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="difference" d:title="difference">
+    <d:index d:value="difference" d:title="difference"/>
+    <d:index d:value="diff"  d:title="diff"/>
+    <div>
+	    difference
+         <li>diff</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="difficult" d:title="difficult">
     <d:index d:value="difficult" d:title="difficult"/>
     <d:index d:value="diffic"  d:title="diffic"/>
@@ -3817,6 +4126,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="directory" d:title="directory">
+    <d:index d:value="directory" d:title="directory"/>
+    <d:index d:value="dir"  d:title="dir"/>
+    <div>
+	    directory
+         <li>dir</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="discipline" d:title="discipline">
     <d:index d:value="discipline" d:title="discipline"/>
     <d:index d:value="discipl"  d:title="discipl"/>
@@ -3841,6 +4159,15 @@
     <div>
 	    discovery
          <li>discov</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="discriminant" d:title="discriminant">
+    <d:index d:value="discriminant" d:title="discriminant"/>
+    <d:index d:value="disc"  d:title="disc"/>
+    <div>
+	    discriminant
+         <li>disc</li>
          <br />
     </div>
 </d:entry>    
@@ -3889,6 +4216,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="distance" d:title="distance">
+    <d:index d:value="distance" d:title="distance"/>
+    <d:index d:value="dist"  d:title="dist"/>
+    <div>
+	    distance
+         <li>dist</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="distemper" d:title="distemper">
     <d:index d:value="distemper" d:title="distemper"/>
     <d:index d:value="distemp"  d:title="distemp"/>
@@ -3907,12 +4243,30 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="distribute" d:title="distribute">
+    <d:index d:value="distribute" d:title="distribute"/>
+    <d:index d:value="distrib"  d:title="distrib"/>
+    <div>
+	    distribute
+         <li>distrib</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="distribution" d:title="distribution">
     <d:index d:value="distribution" d:title="distribution"/>
     <d:index d:value="distrib"  d:title="distrib"/>
     <div>
 	    distribution
          <li>distrib</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="distributor" d:title="distributor">
+    <d:index d:value="distributor" d:title="distributor"/>
+    <d:index d:value="dist"  d:title="dist"/>
+    <div>
+	    distributor
+         <li>dist</li>
          <br />
     </div>
 </d:entry>    
@@ -4474,6 +4828,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="enumeration" d:title="enumeration">
+    <d:index d:value="enumeration" d:title="enumeration"/>
+    <d:index d:value="enum"  d:title="enum"/>
+    <div>
+	    enumeration
+         <li>enum</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="environment" d:title="environment">
+    <d:index d:value="environment" d:title="environment"/>
+    <d:index d:value="env"  d:title="env"/>
+    <div>
+	    environment
+         <li>env</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="ephesians" d:title="ephesians">
     <d:index d:value="ephesians" d:title="ephesians"/>
     <d:index d:value="eph"  d:title="eph"/>
@@ -4547,6 +4919,24 @@
     <div>
 	    erroneously
          <li>erron</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="error" d:title="error">
+    <d:index d:value="error" d:title="error"/>
+    <d:index d:value="err"  d:title="err"/>
+    <div>
+	    error
+         <li>err</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="escape" d:title="escape">
+    <d:index d:value="escape" d:title="escape"/>
+    <d:index d:value="esc"  d:title="esc"/>
+    <div>
+	    escape
+         <li>esc</li>
          <br />
     </div>
 </d:entry>    
@@ -4678,6 +5068,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="evaluate" d:title="evaluate">
+    <d:index d:value="evaluate" d:title="evaluate"/>
+    <d:index d:value="eval"  d:title="eval"/>
+    <div>
+	    evaluate
+         <li>eval</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="evaluation" d:title="evaluation">
     <d:index d:value="evaluation" d:title="evaluation"/>
     <d:index d:value="eval"  d:title="eval"/>
@@ -4752,10 +5151,19 @@
 </d:entry>    
 <d:entry id="except" d:title="except">
     <d:index d:value="except" d:title="except"/>
-    <d:index d:value="exc"  d:title="exc"/>
+    <d:index d:value="excp"  d:title="excp"/>
     <div>
 	    except
-         <li>exc</li>
+         <li>excp</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="exception" d:title="exception">
+    <d:index d:value="exception" d:title="exception"/>
+    <d:index d:value="excp"  d:title="excp"/>
+    <div>
+	    exception
+         <li>excp</li>
          <br />
     </div>
 </d:entry>    
@@ -4774,6 +5182,15 @@
     <div>
 	    exchequer
          <li>exch</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="execute" d:title="execute">
+    <d:index d:value="execute" d:title="execute"/>
+    <d:index d:value="exec"  d:title="exec"/>
+    <div>
+	    execute
+         <li>exec</li>
          <br />
     </div>
 </d:entry>    
@@ -4921,6 +5338,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="extend" d:title="extend">
+    <d:index d:value="extend" d:title="extend"/>
+    <d:index d:value="ext"  d:title="ext"/>
+    <div>
+	    extend
+         <li>ext</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="extension" d:title="extension">
     <d:index d:value="extension" d:title="extension"/>
     <d:index d:value="ext"  d:title="ext"/>
@@ -5026,6 +5452,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="field" d:title="field">
+    <d:index d:value="field" d:title="field"/>
+    <d:index d:value="fld"  d:title="fld"/>
+    <div>
+	    field
+         <li>fld</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="fifeshire" d:title="fifeshire">
     <d:index d:value="fifeshire" d:title="fifeshire"/>
     <d:index d:value="fifesh"  d:title="fifesh"/>
@@ -5050,6 +5485,24 @@
     <div>
 	    figuratively
          <li>fig</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="figure" d:title="figure">
+    <d:index d:value="figure" d:title="figure"/>
+    <d:index d:value="fig"  d:title="fig"/>
+    <div>
+	    figure
+         <li>fig</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="floating" d:title="floating">
+    <d:index d:value="floating" d:title="floating"/>
+    <d:index d:value="float"  d:title="float"/>
+    <div>
+	    floating
+         <li>float</li>
          <br />
     </div>
 </d:entry>    
@@ -5107,6 +5560,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="format" d:title="format">
+    <d:index d:value="format" d:title="format"/>
+    <d:index d:value="fmt"  d:title="fmt"/>
+    <div>
+	    format
+         <li>fmt</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="fortification" d:title="fortification">
     <d:index d:value="fortification" d:title="fortification"/>
     <d:index d:value="fortif"  d:title="fortif"/>
@@ -5125,6 +5587,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="forward" d:title="forward">
+    <d:index d:value="forward" d:title="forward"/>
+    <d:index d:value="fwd"  d:title="fwd"/>
+    <div>
+	    forward
+         <li>fwd</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="foundation" d:title="foundation">
     <d:index d:value="foundation" d:title="foundation"/>
     <d:index d:value="found"  d:title="found"/>
@@ -5140,6 +5611,15 @@
     <div>
 	    foundations
          <li>found</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="fraction" d:title="fraction">
+    <d:index d:value="fraction" d:title="fraction"/>
+    <d:index d:value="frac"  d:title="frac"/>
+    <div>
+	    fraction
+         <li>frac</li>
          <br />
     </div>
 </d:entry>    
@@ -5179,6 +5659,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="frequency" d:title="frequency">
+    <d:index d:value="frequency" d:title="frequency"/>
+    <d:index d:value="freq"  d:title="freq"/>
+    <div>
+	    frequency
+         <li>freq</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="frequent" d:title="frequent">
+    <d:index d:value="frequent" d:title="frequent"/>
+    <d:index d:value="freq"  d:title="freq"/>
+    <div>
+	    frequent
+         <li>freq</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="frequently" d:title="frequently">
     <d:index d:value="frequently" d:title="frequently"/>
     <d:index d:value="freq"  d:title="freq"/>
@@ -5212,6 +5710,15 @@
     <div>
 	    from
          <li>fr</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="function" d:title="function">
+    <d:index d:value="function" d:title="function"/>
+    <d:index d:value="func"  d:title="func"/>
+    <div>
+	    function
+         <li>func</li>
          <br />
     </div>
 </d:entry>    
@@ -5578,6 +6085,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="guarantee" d:title="guarantee">
+    <d:index d:value="guarantee" d:title="guarantee"/>
+    <d:index d:value="guar"  d:title="guar"/>
+    <div>
+	    guarantee
+         <li>guar</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="gynaecology" d:title="gynaecology">
     <d:index d:value="gynaecology" d:title="gynaecology"/>
     <d:index d:value="gynaecol"  d:title="gynaecol"/>
@@ -5631,6 +6147,33 @@
     <div>
 	    handbook
          <li>handbk</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="handle" d:title="handle">
+    <d:index d:value="handle" d:title="handle"/>
+    <d:index d:value="hdl"  d:title="hdl"/>
+    <div>
+	    handle
+         <li>hdl</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="harmonic" d:title="harmonic">
+    <d:index d:value="harmonic" d:title="harmonic"/>
+    <d:index d:value="har"  d:title="har"/>
+    <div>
+	    harmonic
+         <li>har</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="header" d:title="header">
+    <d:index d:value="header" d:title="header"/>
+    <d:index d:value="hdr"  d:title="hdr"/>
+    <div>
+	    header
+         <li>hdr</li>
          <br />
     </div>
 </d:entry>    
@@ -5703,6 +6246,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="hexadecimal" d:title="hexadecimal">
+    <d:index d:value="hexadecimal" d:title="hexadecimal"/>
+    <d:index d:value="hex"  d:title="hex"/>
+    <div>
+	    hexadecimal
+         <li>hex</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="hieroglyphic" d:title="hieroglyphic">
     <d:index d:value="hieroglyphic" d:title="hieroglyphic"/>
     <d:index d:value="hierogl"  d:title="hierogl"/>
@@ -5772,6 +6324,15 @@
     <div>
 	    honourable
          <li>hon</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="horizontal" d:title="horizontal">
+    <d:index d:value="horizontal" d:title="horizontal"/>
+    <d:index d:value="horiz"  d:title="horiz"/>
+    <div>
+	    horizontal
+         <li>horiz</li>
          <br />
     </div>
 </d:entry>    
@@ -6150,12 +6711,30 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="infinite" d:title="infinite">
+    <d:index d:value="infinite" d:title="infinite"/>
+    <d:index d:value="inf"  d:title="inf"/>
+    <div>
+	    infinite
+         <li>inf</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="infinitive" d:title="infinitive">
     <d:index d:value="infinitive" d:title="infinitive"/>
     <d:index d:value="infin"  d:title="infin"/>
     <div>
 	    infinitive
          <li>infin</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="infinity" d:title="infinity">
+    <d:index d:value="infinity" d:title="infinity"/>
+    <d:index d:value="inf"  d:title="inf"/>
+    <div>
+	    infinity
+         <li>inf</li>
          <br />
     </div>
 </d:entry>    
@@ -6183,6 +6762,33 @@
     <div>
 	    information
          <li>info</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="initial" d:title="initial">
+    <d:index d:value="initial" d:title="initial"/>
+    <d:index d:value="init"  d:title="init"/>
+    <div>
+	    initial
+         <li>init</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="initialization" d:title="initialization">
+    <d:index d:value="initialization" d:title="initialization"/>
+    <d:index d:value="init"  d:title="init"/>
+    <div>
+	    initialization
+         <li>init</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="initialize" d:title="initialize">
+    <d:index d:value="initialize" d:title="initialize"/>
+    <d:index d:value="init"  d:title="init"/>
+    <div>
+	    initialize
+         <li>init</li>
          <br />
     </div>
 </d:entry>    
@@ -6320,6 +6926,15 @@
     <div>
 	    international
          <li>internat</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="internationalization" d:title="internationalization">
+    <d:index d:value="internationalization" d:title="internationalization"/>
+    <d:index d:value="i18n"  d:title="i18n"/>
+    <div>
+	    internationalization
+         <li>i18n</li>
          <br />
     </div>
 </d:entry>    
@@ -6508,6 +7123,33 @@
     <div>
 	    italian
          <li>ital</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="iterate" d:title="iterate">
+    <d:index d:value="iterate" d:title="iterate"/>
+    <d:index d:value="iter"  d:title="iter"/>
+    <div>
+	    iterate
+         <li>iter</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="iteration" d:title="iteration">
+    <d:index d:value="iteration" d:title="iteration"/>
+    <d:index d:value="iter"  d:title="iter"/>
+    <div>
+	    iteration
+         <li>iter</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="iterator" d:title="iterator">
+    <d:index d:value="iterator" d:title="iterator"/>
+    <d:index d:value="iter"  d:title="iter"/>
+    <div>
+	    iterator
+         <li>iter</li>
          <br />
     </div>
 </d:entry>    
@@ -6886,6 +7528,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="length" d:title="length">
+    <d:index d:value="length" d:title="length"/>
+    <d:index d:value="len"  d:title="len"/>
+    <div>
+	    length
+         <li>len</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="letter" d:title="letter">
     <d:index d:value="letter" d:title="letter"/>
     <d:index d:value="let"  d:title="let"/>
@@ -6925,9 +7576,11 @@
 <d:entry id="library" d:title="library">
     <d:index d:value="library" d:title="library"/>
     <d:index d:value="libr"  d:title="libr"/>
+    <d:index d:value="lib"  d:title="lib"/>
     <div>
 	    library
          <li>libr</li>
+         <li>lib</li>
          <br />
     </div>
 </d:entry>    
@@ -7068,6 +7721,42 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="locale" d:title="locale">
+    <d:index d:value="locale" d:title="locale"/>
+    <d:index d:value="loc"  d:title="loc"/>
+    <div>
+	    locale
+         <li>loc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="localization" d:title="localization">
+    <d:index d:value="localization" d:title="localization"/>
+    <d:index d:value="l10n"  d:title="l10n"/>
+    <div>
+	    localization
+         <li>l10n</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="locate" d:title="locate">
+    <d:index d:value="locate" d:title="locate"/>
+    <d:index d:value="loc"  d:title="loc"/>
+    <div>
+	    locate
+         <li>loc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="location" d:title="location">
+    <d:index d:value="location" d:title="location"/>
+    <d:index d:value="loc"  d:title="loc"/>
+    <div>
+	    location
+         <li>loc</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="london" d:title="london">
     <d:index d:value="london" d:title="london"/>
     <d:index d:value="lond"  d:title="lond"/>
@@ -7092,6 +7781,15 @@
     <div>
 	    lords
          <li>lds</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="lowercase" d:title="lowercase">
+    <d:index d:value="lowercase" d:title="lowercase"/>
+    <d:index d:value="low"  d:title="low"/>
+    <div>
+	    lowercase
+         <li>low</li>
          <br />
     </div>
 </d:entry>    
@@ -7191,6 +7889,15 @@
     <div>
 	    manipulation
          <li>manip</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="mantissa" d:title="mantissa">
+    <d:index d:value="mantissa" d:title="mantissa"/>
+    <d:index d:value="mant"  d:title="mant"/>
+    <div>
+	    mantissa
+         <li>mant</li>
          <br />
     </div>
 </d:entry>    
@@ -7412,6 +8119,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="memory" d:title="memory">
+    <d:index d:value="memory" d:title="memory"/>
+    <d:index d:value="mem"  d:title="mem"/>
+    <div>
+	    memory
+         <li>mem</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="merchant" d:title="merchant">
     <d:index d:value="merchant" d:title="merchant"/>
     <d:index d:value="merch"  d:title="merch"/>
@@ -7436,6 +8152,15 @@
     <div>
 	    mercury
          <li>merc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="message" d:title="message">
+    <d:index d:value="message" d:title="message"/>
+    <d:index d:value="msg"  d:title="msg"/>
+    <div>
+	    message
+         <li>msg</li>
          <br />
     </div>
 </d:entry>    
@@ -7787,6 +8512,42 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="modification" d:title="modification">
+    <d:index d:value="modification" d:title="modification"/>
+    <d:index d:value="mod"  d:title="mod"/>
+    <div>
+	    modification
+         <li>mod</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="modify" d:title="modify">
+    <d:index d:value="modify" d:title="modify"/>
+    <d:index d:value="mod"  d:title="mod"/>
+    <div>
+	    modify
+         <li>mod</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="module" d:title="module">
+    <d:index d:value="module" d:title="module"/>
+    <d:index d:value="mod"  d:title="mod"/>
+    <div>
+	    module
+         <li>mod</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="modulo" d:title="modulo">
+    <d:index d:value="modulo" d:title="modulo"/>
+    <d:index d:value="mod"  d:title="mod"/>
+    <div>
+	    modulo
+         <li>mod</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="monday" d:title="monday">
     <d:index d:value="monday" d:title="monday"/>
     <d:index d:value="mon"  d:title="mon"/>
@@ -7850,6 +8611,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="multiple" d:title="multiple">
+    <d:index d:value="multiple" d:title="multiple"/>
+    <d:index d:value="multi"  d:title="multi"/>
+    <div>
+	    multiple
+         <li>multi</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="multiply" d:title="multiply">
+    <d:index d:value="multiply" d:title="multiply"/>
+    <d:index d:value="mul"  d:title="mul"/>
+    <div>
+	    multiply
+         <li>mul</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="municipal" d:title="municipal">
     <d:index d:value="municipal" d:title="municipal"/>
     <d:index d:value="munic"  d:title="munic"/>
@@ -7901,6 +8680,33 @@
     <div>
 	    musical
          <li>mus</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="mutable" d:title="mutable">
+    <d:index d:value="mutable" d:title="mutable"/>
+    <d:index d:value="mut"  d:title="mut"/>
+    <div>
+	    mutable
+         <li>mut</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="mutate" d:title="mutate">
+    <d:index d:value="mutate" d:title="mutate"/>
+    <d:index d:value="mut"  d:title="mut"/>
+    <div>
+	    mutate
+         <li>mut</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="mutation" d:title="mutation">
+    <d:index d:value="mutation" d:title="mutation"/>
+    <d:index d:value="mut"  d:title="mut"/>
+    <div>
+	    mutation
+         <li>mut</li>
          <br />
     </div>
 </d:entry>    
@@ -8015,6 +8821,15 @@
     <div>
 	    nervous
          <li>nerv</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="network" d:title="network">
+    <d:index d:value="network" d:title="network"/>
+    <d:index d:value="net"  d:title="net"/>
+    <div>
+	    network
+         <li>net</li>
          <br />
     </div>
 </d:entry>    
@@ -8230,9 +9045,11 @@
 </d:entry>    
 <d:entry id="number" d:title="number">
     <d:index d:value="number" d:title="number"/>
+    <d:index d:value="num"  d:title="num"/>
     <d:index d:value="no."  d:title="no."/>
     <div>
 	    number
+         <li>num</li>
          <li>no.</li>
          <br />
     </div>
@@ -8450,6 +9267,33 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="operate" d:title="operate">
+    <d:index d:value="operate" d:title="operate"/>
+    <d:index d:value="op"  d:title="op"/>
+    <div>
+	    operate
+         <li>op</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="operation" d:title="operation">
+    <d:index d:value="operation" d:title="operation"/>
+    <d:index d:value="op"  d:title="op"/>
+    <div>
+	    operation
+         <li>op</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="operator" d:title="operator">
+    <d:index d:value="operator" d:title="operator"/>
+    <d:index d:value="op"  d:title="op"/>
+    <div>
+	    operator
+         <li>op</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="ophtalmologic" d:title="ophtalmologic">
     <d:index d:value="ophtalmologic" d:title="ophtalmologic"/>
     <d:index d:value="ophthalmol"  d:title="ophthalmol"/>
@@ -8493,6 +9337,15 @@
     <d:index d:value="opt"  d:title="opt"/>
     <div>
 	    optics
+         <li>opt</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="option" d:title="option">
+    <d:index d:value="option" d:title="option"/>
+    <d:index d:value="opt"  d:title="opt"/>
+    <div>
+	    option
          <li>opt</li>
          <br />
     </div>
@@ -8547,6 +9400,24 @@
     <d:index d:value="orig"  d:title="orig"/>
     <div>
 	    original
+         <li>orig</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="originate" d:title="originate">
+    <d:index d:value="originate" d:title="originate"/>
+    <d:index d:value="orig"  d:title="orig"/>
+    <div>
+	    originate
+         <li>orig</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="origination" d:title="origination">
+    <d:index d:value="origination" d:title="origination"/>
+    <d:index d:value="orig"  d:title="orig"/>
+    <div>
+	    origination
          <li>orig</li>
          <br />
     </div>
@@ -8607,6 +9478,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="overflow" d:title="overflow">
+    <d:index d:value="overflow" d:title="overflow"/>
+    <d:index d:value="ovfl"  d:title="ovfl"/>
+    <div>
+	    overflow
+         <li>ovfl</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="oxford" d:title="oxford">
     <d:index d:value="oxford" d:title="oxford"/>
     <d:index d:value="oxf"  d:title="oxf"/>
@@ -8624,6 +9504,15 @@
 	    oxfordshire
          <li>oxfordsh</li>
          <li>oxon</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="package" d:title="package">
+    <d:index d:value="package" d:title="package"/>
+    <d:index d:value="pkg"  d:title="pkg"/>
+    <div>
+	    package
+         <li>pkg</li>
          <br />
     </div>
 </d:entry>    
@@ -8900,12 +9789,39 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="perform" d:title="perform">
+    <d:index d:value="perform" d:title="perform"/>
+    <d:index d:value="perf"  d:title="perf"/>
+    <div>
+	    perform
+         <li>perf</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="performance" d:title="performance">
+    <d:index d:value="performance" d:title="performance"/>
+    <d:index d:value="perf"  d:title="perf"/>
+    <div>
+	    performance
+         <li>perf</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="perhaps" d:title="perhaps">
     <d:index d:value="perhaps" d:title="perhaps"/>
     <d:index d:value="perh"  d:title="perh"/>
     <div>
 	    perhaps
          <li>perh</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="perimeter" d:title="perimeter">
+    <d:index d:value="perimeter" d:title="perimeter"/>
+    <d:index d:value="perim"  d:title="perim"/>
+    <div>
+	    perimeter
+         <li>perim</li>
          <br />
     </div>
 </d:entry>    
@@ -8933,6 +9849,15 @@
     <div>
 	    periodontology
          <li>periodontol</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="perpendicular" d:title="perpendicular">
+    <d:index d:value="perpendicular" d:title="perpendicular"/>
+    <d:index d:value="perp"  d:title="perp"/>
+    <div>
+	    perpendicular
+         <li>perp</li>
          <br />
     </div>
 </d:entry>    
@@ -9357,6 +10282,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="pointer" d:title="pointer">
+    <d:index d:value="pointer" d:title="pointer"/>
+    <d:index d:value="ptr"  d:title="ptr"/>
+    <div>
+	    pointer
+         <li>ptr</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="political" d:title="political">
     <d:index d:value="political" d:title="political"/>
     <d:index d:value="pol"  d:title="pol"/>
@@ -9430,6 +10364,24 @@
     <div>
 	    portuguese
          <li>port</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="position" d:title="position">
+    <d:index d:value="position" d:title="position"/>
+    <d:index d:value="pos"  d:title="pos"/>
+    <div>
+	    position
+         <li>pos</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="positive" d:title="positive">
+    <d:index d:value="positive" d:title="positive"/>
+    <d:index d:value="pos"  d:title="pos"/>
+    <div>
+	    positive
+         <li>pos</li>
          <br />
     </div>
 </d:entry>    
@@ -9579,6 +10531,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="prefer" d:title="prefer">
+    <d:index d:value="prefer" d:title="prefer"/>
+    <d:index d:value="pref"  d:title="pref"/>
+    <div>
+	    prefer
+         <li>pref</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="preference" d:title="preference">
+    <d:index d:value="preference" d:title="preference"/>
+    <d:index d:value="pref"  d:title="pref"/>
+    <div>
+	    preference
+         <li>pref</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="prefix" d:title="prefix">
     <d:index d:value="prefix" d:title="prefix"/>
     <d:index d:value="pref"  d:title="pref"/>
@@ -9673,6 +10643,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="previous" d:title="previous">
+    <d:index d:value="previous" d:title="previous"/>
+    <d:index d:value="prev"  d:title="prev"/>
+    <div>
+	    previous
+         <li>prev</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="primer" d:title="primer">
     <d:index d:value="primer" d:title="primer"/>
     <d:index d:value="prim"  d:title="prim"/>
@@ -9721,9 +10700,11 @@
 <d:entry id="probability" d:title="probability">
     <d:index d:value="probability" d:title="probability"/>
     <d:index d:value="probab"  d:title="probab"/>
+    <d:index d:value="prob"  d:title="prob"/>
     <div>
 	    probability
          <li>probab</li>
+         <li>prob</li>
          <br />
     </div>
 </d:entry>    
@@ -9745,11 +10726,29 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="procedure" d:title="procedure">
+    <d:index d:value="procedure" d:title="procedure"/>
+    <d:index d:value="proc"  d:title="proc"/>
+    <div>
+	    procedure
+         <li>proc</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="proceedings" d:title="proceedings">
     <d:index d:value="proceedings" d:title="proceedings"/>
     <d:index d:value="proc"  d:title="proc"/>
     <div>
 	    proceedings
+         <li>proc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="process" d:title="process">
+    <d:index d:value="process" d:title="process"/>
+    <d:index d:value="proc"  d:title="proc"/>
+    <div>
+	    process
          <li>proc</li>
          <br />
     </div>
@@ -9772,6 +10771,42 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="profile" d:title="profile">
+    <d:index d:value="profile" d:title="profile"/>
+    <d:index d:value="prof"  d:title="prof"/>
+    <div>
+	    profile
+         <li>prof</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="program" d:title="program">
+    <d:index d:value="program" d:title="program"/>
+    <d:index d:value="prog"  d:title="prog"/>
+    <div>
+	    program
+         <li>prog</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="progress" d:title="progress">
+    <d:index d:value="progress" d:title="progress"/>
+    <d:index d:value="prog"  d:title="prog"/>
+    <div>
+	    progress
+         <li>prog</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="project" d:title="project">
+    <d:index d:value="project" d:title="project"/>
+    <d:index d:value="proj"  d:title="proj"/>
+    <div>
+	    project
+         <li>proj</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="prologue" d:title="prologue">
     <d:index d:value="prologue" d:title="prologue"/>
     <d:index d:value="prol"  d:title="prol"/>
@@ -9786,6 +10821,15 @@
     <d:index d:value="pron"  d:title="pron"/>
     <div>
 	    pronoun
+         <li>pron</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="pronounce" d:title="pronounce">
+    <d:index d:value="pronounce" d:title="pronounce"/>
+    <d:index d:value="pron"  d:title="pron"/>
+    <div>
+	    pronounce
          <li>pron</li>
          <br />
     </div>
@@ -9828,6 +10872,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="proportion" d:title="proportion">
+    <d:index d:value="proportion" d:title="proportion"/>
+    <d:index d:value="prop"  d:title="prop"/>
+    <div>
+	    proportion
+         <li>prop</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="proprietary" d:title="proprietary">
     <d:index d:value="proprietary" d:title="proprietary"/>
     <d:index d:value="propr"  d:title="propr"/>
@@ -9843,6 +10896,24 @@
     <div>
 	    prosody
          <li>pros</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="protocol" d:title="protocol">
+    <d:index d:value="protocol" d:title="protocol"/>
+    <d:index d:value="prot"  d:title="prot"/>
+    <div>
+	    protocol
+         <li>prot</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="prototype" d:title="prototype">
+    <d:index d:value="prototype" d:title="prototype"/>
+    <d:index d:value="proto"  d:title="proto"/>
+    <div>
+	    prototype
+         <li>proto</li>
          <br />
     </div>
 </d:entry>    
@@ -10037,12 +11108,39 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="punctuate" d:title="punctuate">
+    <d:index d:value="punctuate" d:title="punctuate"/>
+    <d:index d:value="punc"  d:title="punc"/>
+    <div>
+	    punctuate
+         <li>punc</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="punctuation" d:title="punctuation">
+    <d:index d:value="punctuation" d:title="punctuation"/>
+    <d:index d:value="punc"  d:title="punc"/>
+    <div>
+	    punctuation
+         <li>punc</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="purgatory" d:title="purgatory">
     <d:index d:value="purgatory" d:title="purgatory"/>
     <d:index d:value="purg"  d:title="purg"/>
     <div>
 	    purgatory
          <li>purg</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="quadratic" d:title="quadratic">
+    <d:index d:value="quadratic" d:title="quadratic"/>
+    <d:index d:value="quad"  d:title="quad"/>
+    <div>
+	    quadratic
+         <li>quad</li>
          <br />
     </div>
 </d:entry>    
@@ -10073,6 +11171,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="query" d:title="query">
+    <d:index d:value="query" d:title="query"/>
+    <d:index d:value="qry"  d:title="qry"/>
+    <div>
+	    query
+         <li>qry</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="question" d:title="question">
+    <d:index d:value="question" d:title="question"/>
+    <d:index d:value="ques"  d:title="ques"/>
+    <div>
+	    question
+         <li>ques</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="quotation" d:title="quotation">
     <d:index d:value="quotation" d:title="quotation"/>
     <d:index d:value="quot"  d:title="quot"/>
@@ -10091,12 +11207,30 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="quotient" d:title="quotient">
+    <d:index d:value="quotient" d:title="quotient"/>
+    <d:index d:value="quot"  d:title="quot"/>
+    <div>
+	    quotient
+         <li>quot</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="radiology" d:title="radiology">
     <d:index d:value="radiology" d:title="radiology"/>
     <d:index d:value="radiol"  d:title="radiol"/>
     <div>
 	    radiology
          <li>radiol</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="random" d:title="random">
+    <d:index d:value="random" d:title="random"/>
+    <d:index d:value="rand"  d:title="rand"/>
+    <div>
+	    random
+         <li>rand</li>
          <br />
     </div>
 </d:entry>    
@@ -10117,6 +11251,15 @@
 	    rebellion
          <li>reb</li>
          <li>rebell</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="receive" d:title="receive">
+    <d:index d:value="receive" d:title="receive"/>
+    <d:index d:value="recv"  d:title="recv"/>
+    <div>
+	    receive
+         <li>recv</li>
          <br />
     </div>
 </d:entry>    
@@ -10143,6 +11286,24 @@
     <d:index d:value="rec"  d:title="rec"/>
     <div>
 	    record
+         <li>rec</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="rectangle" d:title="rectangle">
+    <d:index d:value="rectangle" d:title="rectangle"/>
+    <d:index d:value="rect"  d:title="rect"/>
+    <div>
+	    rectangle
+         <li>rect</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="recursive" d:title="recursive">
+    <d:index d:value="recursive" d:title="recursive"/>
+    <d:index d:value="rec"  d:title="rec"/>
+    <div>
+	    recursive
          <li>rec</li>
          <br />
     </div>
@@ -10286,6 +11447,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="relation" d:title="relation">
+    <d:index d:value="relation" d:title="relation"/>
+    <d:index d:value="rel"  d:title="rel"/>
+    <div>
+	    relation
+         <li>rel</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="relative" d:title="relative">
     <d:index d:value="relative" d:title="relative"/>
     <d:index d:value="rel"  d:title="rel"/>
@@ -10348,6 +11518,15 @@
 	    report
          <li>rep</li>
          <li>rept</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="repository" d:title="repository">
+    <d:index d:value="repository" d:title="repository"/>
+    <d:index d:value="repo"  d:title="repo"/>
+    <div>
+	    repository
+         <li>repo</li>
          <br />
     </div>
 </d:entry>    
@@ -10423,6 +11602,33 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="respond" d:title="respond">
+    <d:index d:value="respond" d:title="respond"/>
+    <d:index d:value="resp"  d:title="resp"/>
+    <div>
+	    respond
+         <li>resp</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="response" d:title="response">
+    <d:index d:value="response" d:title="response"/>
+    <d:index d:value="resp"  d:title="resp"/>
+    <div>
+	    response
+         <li>resp</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="responsive" d:title="responsive">
+    <d:index d:value="responsive" d:title="responsive"/>
+    <d:index d:value="resp"  d:title="resp"/>
+    <div>
+	    responsive
+         <li>resp</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="retrospective" d:title="retrospective">
     <d:index d:value="retrospective" d:title="retrospective"/>
     <d:index d:value="retrosp"  d:title="retrosp"/>
@@ -10446,6 +11652,15 @@
     <d:index d:value="rev"  d:title="rev"/>
     <div>
 	    revelation
+         <li>rev</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="reverse" d:title="reverse">
+    <d:index d:value="reverse" d:title="reverse"/>
+    <d:index d:value="rev"  d:title="rev"/>
+    <div>
+	    reverse
          <li>rev</li>
          <br />
     </div>
@@ -10668,6 +11883,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="schedule" d:title="schedule">
+    <d:index d:value="schedule" d:title="schedule"/>
+    <d:index d:value="sched"  d:title="sched"/>
+    <div>
+	    schedule
+         <li>sched</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="school" d:title="school">
     <d:index d:value="school" d:title="school"/>
     <d:index d:value="sch"  d:title="sch"/>
@@ -10751,6 +11975,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="second" d:title="second">
+    <d:index d:value="second" d:title="second"/>
+    <d:index d:value="sec"  d:title="sec"/>
+    <div>
+	    second
+         <li>sec</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="segment" d:title="segment">
+    <d:index d:value="segment" d:title="segment"/>
+    <d:index d:value="seg"  d:title="seg"/>
+    <div>
+	    segment
+         <li>seg</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="seismology" d:title="seismology">
     <d:index d:value="seismology" d:title="seismology"/>
     <d:index d:value="seismol"  d:title="seismol"/>
@@ -10778,12 +12020,39 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="semaphore" d:title="semaphore">
+    <d:index d:value="semaphore" d:title="semaphore"/>
+    <d:index d:value="sem"  d:title="sem"/>
+    <div>
+	    semaphore
+         <li>sem</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="sentence" d:title="sentence">
+    <d:index d:value="sentence" d:title="sentence"/>
+    <d:index d:value="sent"  d:title="sent"/>
+    <div>
+	    sentence
+         <li>sent</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="september" d:title="september">
     <d:index d:value="september" d:title="september"/>
     <d:index d:value="sept"  d:title="sept"/>
     <div>
 	    september
          <li>sept</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="sequence" d:title="sequence">
+    <d:index d:value="sequence" d:title="sequence"/>
+    <d:index d:value="seq"  d:title="seq"/>
+    <div>
+	    sequence
+         <li>seq</li>
          <br />
     </div>
 </d:entry>    
@@ -10802,6 +12071,15 @@
     <div>
 	    sermon
          <li>serm</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="server" d:title="server">
+    <d:index d:value="server" d:title="server"/>
+    <d:index d:value="srv"  d:title="srv"/>
+    <div>
+	    server
+         <li>srv</li>
          <br />
     </div>
 </d:entry>    
@@ -10870,6 +12148,24 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="simulate" d:title="simulate">
+    <d:index d:value="simulate" d:title="simulate"/>
+    <d:index d:value="sim"  d:title="sim"/>
+    <div>
+	    simulate
+         <li>sim</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="simulation" d:title="simulation">
+    <d:index d:value="simulation" d:title="simulation"/>
+    <d:index d:value="sim"  d:title="sim"/>
+    <div>
+	    simulation
+         <li>sim</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="singular" d:title="singular">
     <d:index d:value="singular" d:title="singular"/>
     <d:index d:value="sing"  d:title="sing"/>
@@ -10924,6 +12220,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="source" d:title="source">
+    <d:index d:value="source" d:title="source"/>
+    <d:index d:value="src"  d:title="src"/>
+    <div>
+	    source
+         <li>src</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="south" d:title="south">
     <d:index d:value="south" d:title="south"/>
     <d:index d:value="s"  d:title="s"/>
@@ -10969,6 +12274,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="specific" d:title="specific">
+    <d:index d:value="specific" d:title="specific"/>
+    <d:index d:value="spec"  d:title="spec"/>
+    <div>
+	    specific
+         <li>spec</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="specifically" d:title="specifically">
     <d:index d:value="specifically" d:title="specifically"/>
     <d:index d:value="spec"  d:title="spec"/>
@@ -10980,10 +12294,21 @@
 </d:entry>    
 <d:entry id="specification" d:title="specification">
     <d:index d:value="specification" d:title="specification"/>
+    <d:index d:value="spec"  d:title="spec"/>
     <d:index d:value="specif"  d:title="specif"/>
     <div>
 	    specification
+         <li>spec</li>
          <li>specif</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="specify" d:title="specify">
+    <d:index d:value="specify" d:title="specify"/>
+    <d:index d:value="spec"  d:title="spec"/>
+    <div>
+	    specify
+         <li>spec</li>
          <br />
     </div>
 </d:entry>    
@@ -11043,9 +12368,29 @@
 <d:entry id="standard" d:title="standard">
     <d:index d:value="standard" d:title="standard"/>
     <d:index d:value="stand"  d:title="stand"/>
+    <d:index d:value="std"  d:title="std"/>
     <div>
 	    standard
          <li>stand</li>
+         <li>std</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="statement" d:title="statement">
+    <d:index d:value="statement" d:title="statement"/>
+    <d:index d:value="stm"  d:title="stm"/>
+    <div>
+	    statement
+         <li>stm</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="statistic" d:title="statistic">
+    <d:index d:value="statistic" d:title="statistic"/>
+    <d:index d:value="stat"  d:title="stat"/>
+    <div>
+	    statistic
+         <li>stat</li>
          <br />
     </div>
 </d:entry>    
@@ -11093,6 +12438,15 @@
     <div>
 	    street
          <li>st</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="string" d:title="string">
+    <d:index d:value="string" d:title="string"/>
+    <d:index d:value="str"  d:title="str"/>
+    <div>
+	    string
+         <li>str</li>
          <br />
     </div>
 </d:entry>    
@@ -11228,6 +12582,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="subtract" d:title="subtract">
+    <d:index d:value="subtract" d:title="subtract"/>
+    <d:index d:value="sub"  d:title="sub"/>
+    <div>
+	    subtract
+         <li>sub</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="suffix" d:title="suffix">
     <d:index d:value="suffix" d:title="suffix"/>
     <d:index d:value="suff"  d:title="suff"/>
@@ -11354,6 +12717,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="symmetry" d:title="symmetry">
+    <d:index d:value="symmetry" d:title="symmetry"/>
+    <d:index d:value="symm"  d:title="symm"/>
+    <div>
+	    symmetry
+         <li>symm</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="symposium" d:title="symposium">
     <d:index d:value="symposium" d:title="symposium"/>
     <d:index d:value="symp"  d:title="symp"/>
@@ -11363,12 +12735,32 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="synchronized" d:title="synchronized">
+    <d:index d:value="synchronized" d:title="synchronized"/>
+    <d:index d:value="sync"  d:title="sync"/>
+    <div>
+	    synchronized
+         <li>sync</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="system" d:title="system">
     <d:index d:value="system" d:title="system"/>
     <d:index d:value="syst"  d:title="syst"/>
+    <d:index d:value="sys"  d:title="sys"/>
     <div>
 	    system
          <li>syst</li>
+         <li>sys</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="table" d:title="table">
+    <d:index d:value="table" d:title="table"/>
+    <d:index d:value="tbl"  d:title="tbl"/>
+    <div>
+	    table
+         <li>tbl</li>
          <br />
     </div>
 </d:entry>    
@@ -11380,6 +12772,15 @@
 	    tablespoon
          <li>tbs</li>
          <li>tbsp</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="tangent" d:title="tangent">
+    <d:index d:value="tangent" d:title="tangent"/>
+    <d:index d:value="tan"  d:title="tan"/>
+    <div>
+	    tangent
+         <li>tan</li>
          <br />
     </div>
 </d:entry>    
@@ -11431,9 +12832,11 @@
 <d:entry id="technology" d:title="technology">
     <d:index d:value="technology" d:title="technology"/>
     <d:index d:value="technol"  d:title="technol"/>
+    <d:index d:value="tech"  d:title="tech"/>
     <div>
 	    technology
          <li>technol</li>
+         <li>tech</li>
          <br />
     </div>
 </d:entry>    
@@ -11511,6 +12914,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="temporary" d:title="temporary">
+    <d:index d:value="temporary" d:title="temporary"/>
+    <d:index d:value="temp"  d:title="temp"/>
+    <div>
+	    temporary
+         <li>temp</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="tense" d:title="tense">
     <d:index d:value="tense" d:title="tense"/>
     <d:index d:value="t"  d:title="t"/>
@@ -11526,6 +12938,33 @@
     <div>
 	    teratology
          <li>teratol</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="terminal" d:title="terminal">
+    <d:index d:value="terminal" d:title="terminal"/>
+    <d:index d:value="term"  d:title="term"/>
+    <div>
+	    terminal
+         <li>term</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="terminate" d:title="terminate">
+    <d:index d:value="terminate" d:title="terminate"/>
+    <d:index d:value="term"  d:title="term"/>
+    <div>
+	    terminate
+         <li>term</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="termination" d:title="termination">
+    <d:index d:value="termination" d:title="termination"/>
+    <d:index d:value="term"  d:title="term"/>
+    <div>
+	    termination
+         <li>term</li>
          <br />
     </div>
 </d:entry>    
@@ -11650,6 +13089,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="through" d:title="through">
+    <d:index d:value="through" d:title="through"/>
+    <d:index d:value="thru"  d:title="thru"/>
+    <div>
+	    through
+         <li>thru</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="thursday" d:title="thursday">
     <d:index d:value="thursday" d:title="thursday"/>
     <d:index d:value="thurs"  d:title="thurs"/>
@@ -11740,12 +13188,30 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="transfer" d:title="transfer">
+    <d:index d:value="transfer" d:title="transfer"/>
+    <d:index d:value="xfer"  d:title="xfer"/>
+    <div>
+	    transfer
+         <li>xfer</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="transitive" d:title="transitive">
     <d:index d:value="transitive" d:title="transitive"/>
     <d:index d:value="trans"  d:title="trans"/>
     <div>
 	    transitive
          <li>trans</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="translate" d:title="translate">
+    <d:index d:value="translate" d:title="translate"/>
+    <d:index d:value="xlat"  d:title="xlat"/>
+    <div>
+	    translate
+         <li>xlat</li>
          <br />
     </div>
 </d:entry>    
@@ -11770,6 +13236,51 @@
          <li>tr</li>
          <li>transl</li>
          <li>transl</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="transmit" d:title="transmit">
+    <d:index d:value="transmit" d:title="transmit"/>
+    <d:index d:value="xmit"  d:title="xmit"/>
+    <div>
+	    transmit
+         <li>xmit</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="transparency" d:title="transparency">
+    <d:index d:value="transparency" d:title="transparency"/>
+    <d:index d:value="xpar"  d:title="xpar"/>
+    <div>
+	    transparency
+         <li>xpar</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="transparent" d:title="transparent">
+    <d:index d:value="transparent" d:title="transparent"/>
+    <d:index d:value="xpar"  d:title="xpar"/>
+    <div>
+	    transparent
+         <li>xpar</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="transpose" d:title="transpose">
+    <d:index d:value="transpose" d:title="transpose"/>
+    <d:index d:value="xpos"  d:title="xpos"/>
+    <div>
+	    transpose
+         <li>xpos</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="transposition" d:title="transposition">
+    <d:index d:value="transposition" d:title="transposition"/>
+    <d:index d:value="xpos"  d:title="xpos"/>
+    <div>
+	    transposition
+         <li>xpos</li>
          <br />
     </div>
 </d:entry>    
@@ -11941,6 +13452,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="uppercase" d:title="uppercase">
+    <d:index d:value="uppercase" d:title="uppercase"/>
+    <d:index d:value="up"  d:title="up"/>
+    <div>
+	    uppercase
+         <li>up</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="urinary" d:title="urinary">
     <d:index d:value="urinary" d:title="urinary"/>
     <d:index d:value="urin"  d:title="urin"/>
@@ -11968,6 +13488,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="utility" d:title="utility">
+    <d:index d:value="utility" d:title="utility"/>
+    <d:index d:value="util"  d:title="util"/>
+    <div>
+	    utility
+         <li>util</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="vacation" d:title="vacation">
     <d:index d:value="vacation" d:title="vacation"/>
     <d:index d:value="vac"  d:title="vac"/>
@@ -11983,6 +13512,24 @@
     <div>
 	    valediction
          <li>valedict</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="variable" d:title="variable">
+    <d:index d:value="variable" d:title="variable"/>
+    <d:index d:value="var"  d:title="var"/>
+    <div>
+	    variable
+         <li>var</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="variance" d:title="variance">
+    <d:index d:value="variance" d:title="variance"/>
+    <d:index d:value="var"  d:title="var"/>
+    <div>
+	    variance
+         <li>var</li>
          <br />
     </div>
 </d:entry>    
@@ -12003,6 +13550,15 @@
 	    variants
          <li>varr</li>
          <li>vars</li>
+         <br />
+    </div>
+</d:entry>    
+<d:entry id="vector" d:title="vector">
+    <d:index d:value="vector" d:title="vector"/>
+    <d:index d:value="vec"  d:title="vec"/>
+    <div>
+	    vector
+         <li>vec</li>
          <br />
     </div>
 </d:entry>    
@@ -12332,6 +13888,15 @@
          <br />
     </div>
 </d:entry>    
+<d:entry id="window" d:title="window">
+    <d:index d:value="window" d:title="window"/>
+    <d:index d:value="win"  d:title="win"/>
+    <div>
+	    window
+         <li>win</li>
+         <br />
+    </div>
+</d:entry>    
 <d:entry id="wisconsin" d:title="wisconsin">
     <d:index d:value="wisconsin" d:title="wisconsin"/>
     <d:index d:value="wis"  d:title="wis"/>
@@ -12531,10 +14096,7 @@
     <h1><b>Abbreviations</b></h1>
     <div>
         This dictionary is used to find the abbreviation of a word.<br/><br/>
-    </div>
-    <div>
         Issue/PR: <a href="https://github.com/fangpeishi/Abbreviations">github.com/fangpeishi/Abbreviations</a>
     </div>
-    <br/>
 </d:entry>
 </d:dictionary>
