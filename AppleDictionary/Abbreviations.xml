@@ -2050,10 +2050,10 @@
 </d:entry>    
 <d:entry id="binary" d:title="binary">
     <d:index d:value="binary" d:title="binary"/>
-    <d:index d:value="binary"  d:title="binary"/>
+    <d:index d:value="bin"  d:title="bin"/>
     <div>
 	    binary
-         <li>binary</li>
+         <li>bin</li>
          <br />
     </div>
 </d:entry>    
@@ -2982,11 +2982,9 @@
     <d:index d:value="comparative" d:title="comparative"/>
     <d:index d:value="comp"  d:title="comp"/>
     <d:index d:value="compar"  d:title="compar"/>
-    <d:index d:value="compar"  d:title="compar"/>
     <div>
 	    comparative
          <li>comp</li>
-         <li>compar</li>
          <li>compar</li>
          <br />
     </div>
@@ -6302,10 +6300,10 @@
 </d:entry>    
 <d:entry id="history" d:title="history">
     <d:index d:value="history" d:title="history"/>
-    <d:index d:value="history"  d:title="history"/>
+    <d:index d:value="hist"  d:title="hist"/>
     <div>
 	    history
-         <li>history</li>
+         <li>hist</li>
          <br />
     </div>
 </d:entry>    
@@ -7811,15 +7809,6 @@
          <br />
     </div>
 </d:entry>    
-<d:entry id="machinery" d:title="machinery">
-    <d:index d:value="machinery" d:title="machinery"/>
-    <d:index d:value="machinery"  d:title="machinery"/>
-    <div>
-	    machinery
-         <li>machinery</li>
-         <br />
-    </div>
-</d:entry>    
 <d:entry id="machines" d:title="machines">
     <d:index d:value="machines" d:title="machines"/>
     <d:index d:value="mach"  d:title="mach"/>
@@ -8047,15 +8036,6 @@
          <br />
     </div>
 </d:entry>    
-<d:entry id="mechanics" d:title="mechanics">
-    <d:index d:value="mechanics" d:title="mechanics"/>
-    <d:index d:value="mechanics"  d:title="mechanics"/>
-    <div>
-	    mechanics
-         <li>mechanics</li>
-         <br />
-    </div>
-</d:entry>    
 <d:entry id="medical" d:title="medical">
     <d:index d:value="medical" d:title="medical"/>
     <d:index d:value="med"  d:title="med"/>
@@ -8067,10 +8047,10 @@
 </d:entry>    
 <d:entry id="medicine" d:title="medicine">
     <d:index d:value="medicine" d:title="medicine"/>
-    <d:index d:value="medicine"  d:title="medicine"/>
+    <d:index d:value="med"  d:title="med"/>
     <div>
 	    medicine
-         <li>medicine</li>
+         <li>med</li>
          <br />
     </div>
 </d:entry>    
@@ -9129,10 +9109,8 @@
 <d:entry id="obsolete" d:title="obsolete">
     <d:index d:value="obsolete" d:title="obsolete"/>
     <d:index d:value="obs"  d:title="obs"/>
-    <d:index d:value="obs"  d:title="obs"/>
     <div>
 	    obsolete
-         <li>obs</li>
          <li>obs</li>
          <br />
     </div>
@@ -9770,11 +9748,9 @@
 <d:entry id="perfect" d:title="perfect">
     <d:index d:value="perfect" d:title="perfect"/>
     <d:index d:value="perf"  d:title="perf"/>
-    <d:index d:value="perf"  d:title="perf"/>
     <d:index d:value="pf"  d:title="pf"/>
     <div>
 	    perfect
-         <li>perf</li>
          <li>perf</li>
          <li>pf</li>
          <br />
@@ -13230,11 +13206,9 @@
     <d:index d:value="translation" d:title="translation"/>
     <d:index d:value="tr"  d:title="tr"/>
     <d:index d:value="transl"  d:title="transl"/>
-    <d:index d:value="transl"  d:title="transl"/>
     <div>
 	    translation
          <li>tr</li>
-         <li>transl</li>
          <li>transl</li>
          <br />
     </div>

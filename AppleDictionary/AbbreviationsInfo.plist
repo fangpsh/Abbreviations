@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.dictionary.Abbreviations</string>
+	<string>com.apple.dictionary.abbreviations</string>
 	<key>CFBundleName</key>
 	<string>Abbrev</string>
 	<key>CFBundleShortVersionString</key>
@@ -20,5 +20,14 @@
 	<string>Abbreviations_prefs.html</string>
 	<key>DCSDictionaryXSL</key>
 	<string>Abbreviations.xsl</string>
+        <key>DCSDictionaryDefaultPrefs</key>
+        <dict>
+                <key>pronunciation</key>
+                <string>0</string>
+                <key>display-column</key>
+                <string>1</string>
+                <key>version</key>
+                <string>1</string>
+        </dict>
 </dict>
 </plist>

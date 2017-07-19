@@ -218,7 +218,7 @@ berkshire berks,berksh
 berwickshire berw,berwicksh
 between betw
 bibliography bibliogr
-binary 
+binary  bin
 biochemical biochem
 biochemistry biochem
 biographic biogr
@@ -318,7 +318,7 @@ commonwealth commonw
 communication communic
 companion comp,compan
 company co,comp
-comparative comp,compar,compar
+comparative comp,compar
 compare cf,cmp
 comparison cmp
 compendious compend
@@ -678,7 +678,7 @@ histological histol
 histology histol
 historic hist
 historical hist
-history 
+history  hist
 homilies hom
 honourable hon
 horizontal horiz
@@ -841,7 +841,6 @@ lords lds
 lowercase low
 maccabees macc
 machine mach
-machinery 
 machines mach
 magazine mag
 magnetic magn
@@ -867,9 +866,8 @@ maximum max
 measure meas
 measurement measurem
 mechanical mech
-mechanics 
 medical med
-medicine 
+medicine med
 medieval med
 meditation medit
 meeting mtg
@@ -984,7 +982,7 @@ object obj
 objective obj
 oblique obl
 observation observ
-obsolete obs,obs
+obsolete obs
 obstetric obstet,obstetr
 occasional occas
 occasionally occas
@@ -1053,7 +1051,7 @@ peculation peculat
 pence p
 peninsula penins
 pennsylvania pa
-perfect perf,perf,pf
+perfect perf,pf
 perfection perf
 perform perf
 performance perf
@@ -1428,7 +1426,7 @@ transfer xfer
 transitive trans
 translate xlat
 translating tr,transl
-translation tr,transl,transl
+translation tr,transl
 transmit xmit
 transparency xpar
 transparent xpar
